@@ -1,0 +1,32 @@
+[
+    {
+        "model": "IP Camera",
+        "macvendor": "",
+        "paths": [
+            "rtsp://192.168.0.1/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif"
+        ]
+    },
+    {
+        "model": "WV-S3",
+        "macvendor": "",
+        "paths": [
+            "rtsp://192.168.0.1/mediainput/h265/stream_1",
+            "rtsp://192.168.0.1/mediainput/h264/stream_1"
+        ]
+    },
+    {
+        "model": "WV-SP10",
+        "macvendor": "",
+        "paths": [
+            "rtsp://192.168.0.1/MediaInput/h265",
+            "rtsp://192.168.0.1/MediaInput/h264"
+        ]
+    },
+    {
+        "model": "IPC542",
+        "macvendor": "6cf17e",
+        "paths": [
+            "rtsp://192.168.0.1/media/video1"
+        ]
+    }
+]
