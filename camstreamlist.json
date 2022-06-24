@@ -1,7 +1,7 @@
 [
     {
         "model": "IP Camera",
-        "macvendor": "",
+        "macvendor": "bc325f",
         "paths": [
             "rtsp://192.168.0.1/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif"
         ]
@@ -16,7 +16,7 @@
     },
     {
         "model": "WV-SP10",
-        "macvendor": "",
+        "macvendor": "bcc342",
         "paths": [
             "rtsp://192.168.0.1/MediaInput/h265",
             "rtsp://192.168.0.1/MediaInput/h264"
